@@ -1,2 +1,2 @@
-# Moji-M-Shaper.github.io-
+# moji-m-shaper.github.io-
 Hi, I'm Moji
