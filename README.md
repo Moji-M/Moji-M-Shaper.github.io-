@@ -731,9 +731,7 @@
       </div>
 
       <p style="margin-top:15px;color:var(--muted);font-size:12px">
-        The development list is a roadmap, not a claim that I have already
-        mastered these tools. I plan to build proficiency through study
-        and practical projects.
+        My skills reflect a mix of existing knowledge, areas where I am building proficiency, and technologies I am continuing to explore through learning and practical projects. I am focused on strengthening the skills I already have while developing new ones to support my growth in Data Analysis and Data Science.
       </p>
     </section>
 
