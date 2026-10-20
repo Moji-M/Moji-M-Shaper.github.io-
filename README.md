@@ -1,7 +1,4 @@
-# HI, Welcome to my profile 
-
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/f7e8f4cd-39d7-4a46-ab05-bc313cbac06c" />
-<!DOCTYPE html>
+#  <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
