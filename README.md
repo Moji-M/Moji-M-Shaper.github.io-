@@ -850,7 +850,7 @@
       </p>
       <div class="actions" style="justify-content:center">
         <!-- Replace the example links with your actual profile URLs -->
-        <a class="button primary" href="https://github.com/Moji-M-Shaper.github.io-">
+        <a class="button primary" href="https://https://moji-m.github.io/Moji-M-Shaper.github.io-/">
           GitHub
         </a>
         <a class="button secondary" href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
